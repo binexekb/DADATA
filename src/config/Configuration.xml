@@ -118,7 +118,7 @@
 			<CommonModule>СервисДадата</CommonModule>
 			<CommonModule>Модуль77</CommonModule>
 			<CommonCommand>ЗагрузитьАдресаИзЦБ</CommonCommand>
-			<CommonCommand>РаскидатьАдресаПоРегионам</CommonCommand>
+			<CommonCommand>РаспознатьМассово</CommonCommand>
 			<Constant>АпиКлюч</Constant>
 			<Constant>СекретныйКлюч</Constant>
 			<Constant>КаталогИБ</Constant>

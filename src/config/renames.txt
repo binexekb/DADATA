@@ -8,9 +8,9 @@ Catalogs\Адреса\Forms\ФормаЭлемента.xml-->Catalogs\Адрес
 Catalogs\Адреса\Forms\ФормаСписка\Ext\Form.xml-->Catalogs\Адреса\Forms\ФормаСписка\Ext\Form.xml
 Catalogs\Адреса\Forms\ФормаЭлемента\Ext\Form.xml-->Catalogs\Адреса\Forms\ФормаЭлемента\Ext\Form.xml
 CommonCommands\ЗагрузитьАдресаИзЦБ.xml-->CommonCommands\ЗагрузитьАдресаИзЦБ.xml
-CommonCommands\РаскидатьАдресаПоРегионам.xml-->CommonCommands\РаскидатьАдресаПоРегионам.xml
+CommonCommands\РаспознатьМассово.xml-->CommonCommands\РаспознатьМассово.xml
 CommonCommands\ЗагрузитьАдресаИзЦБ\Ext\CommandModule.bsl-->CommonCommands\ЗагрузитьАдресаИзЦБ\Ext\CommandModule.bsl
-CommonCommands\РаскидатьАдресаПоРегионам\Ext\CommandModule.bsl-->CommonCommands\РаскидатьАдресаПоРегионам\Ext\CommandModule.bsl
+CommonCommands\РаспознатьМассово\Ext\CommandModule.bsl-->CommonCommands\РаспознатьМассово\Ext\CommandModule.bsl
 CommonForms\Настройки.xml-->CommonForms\Настройки.xml
 CommonForms\Настройки\Ext\Form.xml-->CommonForms\Настройки\Ext\Form.xml
 CommonModules\КэшФункции.xml-->CommonModules\КэшФункции.xml
