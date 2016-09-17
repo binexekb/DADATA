@@ -119,6 +119,7 @@
 			<CommonModule>Модуль77</CommonModule>
 			<CommonCommand>ЗагрузитьАдресаИзЦБ</CommonCommand>
 			<CommonCommand>РаспознатьМассово</CommonCommand>
+			<CommonCommand>ОтправитьВЦБМассово</CommonCommand>
 			<Constant>АпиКлюч</Constant>
 			<Constant>СекретныйКлюч</Constant>
 			<Constant>КаталогИБ</Constant>
